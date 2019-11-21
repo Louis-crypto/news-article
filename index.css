@@ -4,6 +4,6 @@ h2.intro{
 p.intro{
   color: gold;
 }
-img.intro{
-  width: 10%;
+img{
+  float: right;
 }
