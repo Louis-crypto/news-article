@@ -5,5 +5,11 @@ p.intro{
   color: gold;
 }
 img{
+  float: left;
+}
+.sidebar{
   float: right;
+  width: 30%;
+  color: white;
+  background-color: black;
 }
